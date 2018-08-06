@@ -1,0 +1,7 @@
+C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\bin\Debug\AdaptiveCodeTraining.exe.config
+C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\bin\Debug\AdaptiveCodeTraining.exe
+C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\bin\Debug\AdaptiveCodeTraining.pdb
+C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\obj\Debug\AdaptiveCodeTraining.csproj.CoreCompileInputs.cache
+C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\obj\Debug\AdaptiveCodeTraining.exe
+C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\obj\Debug\AdaptiveCodeTraining.pdb
+C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\obj\Debug\AdaptiveCodeTraining.csprojAssemblyReference.cache
