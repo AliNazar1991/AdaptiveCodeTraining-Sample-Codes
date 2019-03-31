@@ -46,23 +46,23 @@ namespace AdaptiveCodeTraining
             // page 231 - decorator pattern 
             // because the client accepts the interface as a method parameter, you can provide
             // either the original, undecorated type to that client or you can provide the decorated version
-            //IComponent component = new DecoratorComponent(new ConcreteComponent());
+            // IComponent component = new DecoratorComponent(new ConcreteComponent());
 
-            //component.Something();
+            // component.Something();
 
             // page 232 - composite pattern
             // The composite pattern's purpose is to allow you to treat many instances of an interface as if they were just
             // one
 
-            //IComponent component;
-            //var composite = new CompositeComponent();
-            //composite.AddComponent(new Leaf());
-            //composite.AddComponent(new Leaf());
-            //composite.AddComponent(new Leaf());
+            // IComponent component;
+            // var composite = new CompositeComponent();
+            // composite.AddComponent(new Leaf());
+            // composite.AddComponent(new Leaf()); could be another type of Leaf class that implements IComponent
+            // composite.AddComponent(new Leaf()); could be another type of Leaf class that implements IComponent
 
             //component = composite;
             //component.Something();
-            
+
             Console.ReadLine();
         }
     }
