@@ -1,7 +1,13 @@
-C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\bin\Debug\AdaptiveCodeTraining.exe.config
-C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\bin\Debug\AdaptiveCodeTraining.exe
-C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\bin\Debug\AdaptiveCodeTraining.pdb
-C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\obj\Debug\AdaptiveCodeTraining.csproj.CoreCompileInputs.cache
-C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\obj\Debug\AdaptiveCodeTraining.exe
-C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\obj\Debug\AdaptiveCodeTraining.pdb
-C:\Users\Ali Nazar\Source\Repos\AdaptiveCodeTraining\AdaptiveCodeTraining\obj\Debug\AdaptiveCodeTraining.csprojAssemblyReference.cache
+C:/Users/Ali Nazar/Source/Repos/AdaptiveCodeTraining/AdaptiveCodeTraining/bin/Debug/AdaptiveCodeTraining.exe.config
+C:/Users/Ali Nazar/Source/Repos/AdaptiveCodeTraining/AdaptiveCodeTraining/bin/Debug/AdaptiveCodeTraining.exe
+C:/Users/Ali Nazar/Source/Repos/AdaptiveCodeTraining/AdaptiveCodeTraining/bin/Debug/AdaptiveCodeTraining.pdb
+C:/Users/Ali Nazar/Source/Repos/AdaptiveCodeTraining/AdaptiveCodeTraining/obj/Debug/AdaptiveCodeTraining.csproj.CoreCompileInputs.cache
+C:/Users/Ali Nazar/Source/Repos/AdaptiveCodeTraining/AdaptiveCodeTraining/obj/Debug/AdaptiveCodeTraining.exe
+C:/Users/Ali Nazar/Source/Repos/AdaptiveCodeTraining/AdaptiveCodeTraining/obj/Debug/AdaptiveCodeTraining.pdb
+C:/Users/Ali Nazar/Source/Repos/AdaptiveCodeTraining/AdaptiveCodeTraining/obj/Debug/AdaptiveCodeTraining.csprojAssemblyReference.cache
+/Users/alinazar/Desktop/Repos/AdaptiveCodeTraining-Sample-Codes/AdaptiveCodeTraining/bin/Debug/AdaptiveCodeTraining.exe.config
+/Users/alinazar/Desktop/Repos/AdaptiveCodeTraining-Sample-Codes/AdaptiveCodeTraining/bin/Debug/AdaptiveCodeTraining.exe
+/Users/alinazar/Desktop/Repos/AdaptiveCodeTraining-Sample-Codes/AdaptiveCodeTraining/bin/Debug/AdaptiveCodeTraining.pdb
+/Users/alinazar/Desktop/Repos/AdaptiveCodeTraining-Sample-Codes/AdaptiveCodeTraining/obj/Debug/AdaptiveCodeTraining.csproj.CoreCompileInputs.cache
+/Users/alinazar/Desktop/Repos/AdaptiveCodeTraining-Sample-Codes/AdaptiveCodeTraining/obj/Debug/AdaptiveCodeTraining.exe
+/Users/alinazar/Desktop/Repos/AdaptiveCodeTraining-Sample-Codes/AdaptiveCodeTraining/obj/Debug/AdaptiveCodeTraining.pdb
