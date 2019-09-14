@@ -1,1 +1,1 @@
-"# AdaptiveCodeTraining-Sample-Codes" 
+AdaptiveCode Code samples with explanations.
