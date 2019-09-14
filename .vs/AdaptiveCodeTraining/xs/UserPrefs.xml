@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6CC3E9C0-794D-49FD-88EB-9A9060E62423}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdaptiveCodeTraining/Program.cs">
+    <Files>
+      <File FileName="AdaptiveCodeTraining/Fluent Interfaces/FluentImplementation.cs" Line="1" Column="1" />
+      <File FileName="AdaptiveCodeTraining/Fluent Interfaces/FluentClient.cs" Line="1" Column="1" />
+      <File FileName="AdaptiveCodeTraining/Composite Pattern/IComponent.cs" Line="6" Column="26" />
+      <File FileName="AdaptiveCodeTraining/Composite Pattern/CompositeComponent.cs" Line="12" Column="10" />
+      <File FileName="AdaptiveCodeTraining/Composite Pattern/Leaf.cs" Line="12" Column="75" />
+      <File FileName="AdaptiveCodeTraining/Program.cs" Line="61" Column="114" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdaptiveCodeTraining" expanded="True">
+            <Node name="AdaptiveCodeTraining" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AdaptiveCodeTraining PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
