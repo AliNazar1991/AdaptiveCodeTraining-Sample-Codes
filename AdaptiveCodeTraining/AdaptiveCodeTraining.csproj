@@ -63,9 +63,11 @@
     <Compile Include="Composite Pattern\IComponent.cs" />
     <Compile Include="Composite Pattern\CompositeComponent.cs" />
     <Compile Include="Composite Pattern\Leaf.cs" />
+    <Compile Include="Lazy decorators\LazyComponent.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Lazy decorators\README.md" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Decorator Pattern\" />
