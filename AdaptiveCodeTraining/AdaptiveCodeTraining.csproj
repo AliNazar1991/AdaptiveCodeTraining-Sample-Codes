@@ -64,6 +64,7 @@
     <Compile Include="Composite Pattern\CompositeComponent.cs" />
     <Compile Include="Composite Pattern\Leaf.cs" />
     <Compile Include="Lazy decorators\LazyComponent.cs" />
+    <Compile Include="Decorator Pattern\Profiling Decorator\ProfilingComponent.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -72,6 +73,7 @@
   <ItemGroup>
     <Folder Include="Decorator Pattern\" />
     <Folder Include="Composite Pattern\" />
+    <Folder Include="Decorator Pattern\Profiling Decorator\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
